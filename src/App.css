@@ -22,6 +22,12 @@
   font-size: large;
 }
 
+.Draft-editor {
+  margin-top: 50px;
+  min-height: 200px;
+  background: #f7f7f7
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
